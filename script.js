@@ -9,7 +9,7 @@ class Rectangle {
 		return this.width;
 	}
 
-	get height()}{
+	get height(){
 	return this.height;
 	}
 
